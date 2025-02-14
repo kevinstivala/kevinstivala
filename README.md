@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Kevin Stivala</h1>
 <h3 align="center">Programador de hobby, Estudiante de Analista en Sistemas.</h3>
 
+<h4 align="center">1 Juan 2:2 "El es nuestra Propiciación, por nuestras transgresiones" <3</h4>
+
 - 🔭 Estoy trabajando en **VITAL SISTEMA DE PEDIDOS**
 
 - 🌱 I’m currently learning **MERN Apps**
