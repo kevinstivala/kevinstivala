@@ -2,7 +2,7 @@
 <h3 align="center">Programador de hobby, Estudiante de Analista en Sistemas.</h3>
 
 <h4 align="center">1 Juan 2:2 "El es nuestra Propiciación, por nuestras transgresiones" <3</h4>
-
+<br />
 
 - 🔭 Estoy trabajando en **VITAL SISTEMA DE PEDIDOS**
 
